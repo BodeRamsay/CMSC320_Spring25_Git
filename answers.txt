@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Q1: Why might we consider using Git?
 
 Answer: Git allows you to see a full version history of your code and collaborate with other programmers
+=======
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Journalism since reporters constantly use data and statistics in their stories
+>>>>>>> q2
