@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Journalism since reporters constantly use data and statistics in their stories
